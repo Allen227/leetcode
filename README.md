@@ -11,3 +11,5 @@ Leetcode题集
 
 53. [Maximum Subarray](https://github.com/reming0227/leetcode/issues/4)
 
+121. [Best Time to Buy and Sell Stock](https://github.com/reming0227/leetcode/issues/5)
+
